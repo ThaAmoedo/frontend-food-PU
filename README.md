@@ -27,3 +27,6 @@ A tela inicial do aplicativo destina-se à autenticação. Ao efetuar login como
 ## Acesso:
 https://food-explorer-02.netlify.app/ </br>
 http://localhost:5175/</br>
+
+## Observação:
+Ao tentar criar uma nova conta ele demora mais para saber se criou ou não irá aparece um Alert de Conta criada com sucesso. 
